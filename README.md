@@ -1,0 +1,2 @@
+# MarioParty3
+yes
